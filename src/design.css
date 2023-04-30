@@ -15,12 +15,20 @@ h6 {
 }
 
 h1 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Pacifico", cursive;
   font-weight: bold;
+  color: #8dc6ff;
 }
 h4 {
   font-size: 40px;
 }
+p {
+  font-size: 28px;
+}
 #info {
   background-color: #f0f8ff;
+}
+
+#biography {
+  background-color: #fae1fb;
 }
