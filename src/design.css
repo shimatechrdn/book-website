@@ -23,6 +23,7 @@ h6 {
 h1 {
   font-family: var(--heading-font-family);
   font-weight: bold;
+  color: #ffc107;
 }
 h4 {
   font-size: 40px;
