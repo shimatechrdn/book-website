@@ -55,7 +55,7 @@ p {
 }
 
 a:visited {
-  color: black;
+  color: #708090;
   background-color: transparent;
   text-decoration: none;
 }
