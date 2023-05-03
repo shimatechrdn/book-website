@@ -2,6 +2,8 @@
   --background-color: #f5f5f5;
   --heading-font-family: "Shadows Into Light", cursive;
   --sub-font-family: "Pacifico", cursive;
+  --secondary-color: #add8e6;
+  --icon-color: #ffc107;
 }
 
 body {
@@ -37,4 +39,29 @@ p {
 
 #biography {
   background-color: #fae1fb;
+}
+
+.nav-item-first :hover {
+  color: var(--secondary-color);
+}
+.nav-item-second :hover {
+  color: var(--secondary-color);
+}
+.nav-item-third :hover {
+  color: var(--secondary-color);
+}
+.nav-item-fourth :hover {
+  color: var(--secondary-color);
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.icone {
+  padding: 10px 15px;
+}
+.icone :hover {
+  color: var(--icon-color);
 }
